@@ -16,7 +16,7 @@
     "tsx": "^4.19.2"
   },
   "scripts": {
-    "dev": "tsx watch src/index.ts"
+    "dev": "tsx watch src/http/server.ts"
   },
   "prettier": "@saas/prettier",
   "eslintConfig": {
